@@ -15,7 +15,7 @@ window.nx.onload = function() {};
 window.nx = extend(window.nx,domUtils)
 window.nx = extend(window.nx,drawingUtils)
 window.nx = extend(window.nx,mathUtils)
-
+//asd
 /* this onload function turns canvases into nexus elements,
  * using the canvas's id as its var name */
 
